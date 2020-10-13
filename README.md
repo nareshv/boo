@@ -19,10 +19,10 @@ It requires a [YAML](http://yaml.org/) configuration file and uses the OneOps cl
 ## Usage
 
 To use Boo you download the executable JAR and place it in your `$PATH`. Use the latest version available from
-[http://repo1.maven.org/maven2/com/oneops/boo/boo](http://repo1.maven.org/maven2/com/oneops/boo/boo) e.g.:
+[https://repo1.maven.org/maven2/com/oneops/boo/boo](https://repo1.maven.org/maven2/com/oneops/boo/boo) e.g.:
 
 ```
-$ curl -o boo http://repo1.maven.org/maven2/com/oneops/boo/boo/1.0.19/boo-1.0.19-executable.jar
+$ curl -o boo https://repo1.maven.org/maven2/com/oneops/boo/boo/1.0.20/boo-1.0.20-executable.jar
 $ chmod +x boo
 $ boo <options>
 ```
